@@ -1,3 +1,4 @@
 makedie/fnos
 messense/aliyundrive-webdav
 johngong/baidunetdisk
+codeskyblue/gohttpserver
